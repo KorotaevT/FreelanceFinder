@@ -1,7 +1,7 @@
 # TP-6.4
 ## Проект "FreelanceFinder"
 ### Ссылки на репозитории:
-- **[Сервер](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+- **[Сервер](https://github.com/mk4pustin/tpproject4-backend)**
 - **[Клиент](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
 ### Выполняют студенты 6.4:
