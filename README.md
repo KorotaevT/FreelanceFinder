@@ -2,7 +2,7 @@
 ## Проект "FreelanceFinder"
 ### Ссылки на репозитории:
 - **[Сервер](https://github.com/mk4pustin/tpproject4-backend)**
-- **[Клиент](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+- **[Клиент](https://github.com/mk4pustin/tpproject4-client)**
 
 ### Выполняют студенты 6.4:
 
