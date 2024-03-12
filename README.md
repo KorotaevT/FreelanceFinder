@@ -6,11 +6,11 @@
 
 ### Выполняют студенты 6.4:
 
-1. **[Коротаев Тимофей Александрович](https://github.com/KorotaevT) - Серверная часть**
+1. **[Коротаев Тимофей Александрович](https://github.com/KorotaevT) - Серверная часть, Проектировщик автоматизированной системы**
 
-2. **[Капустин Максим Дмитриевич](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Клиентская часть, TeamLead**
+2. **[Капустин Максим Дмитриевич](https://github.com/mk4pustin) - Клиентская часть, TeamLead**
 
-3. **[Киреев Олег Александрович](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -  Дизайн, документация**
+3. **[Киреев Олег Александрович](https://github.com/Gost-tm) -  Дизайн, документация**
 
 ### Тема: Приложение для поиска и нанятия независимых специалистов для выполнения различных заданий.
 
@@ -27,6 +27,6 @@
 - **[Видеопрезентация проекта](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 ------
 ### Сервисы
-- **[YouTrack](https://tpproject.youtrack.cloud/dashboard?id=d86943e3-d225-4abb-8646-cbba875c72b2)**
-- **[Figma](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+- **[YouTrack](https://tpproject.youtrack.cloud/)**
+- **[Figma](https://www.figma.com/file/9Kpn1ToDiKrdOI2acrNTnW/Untitled?type=design&node-id=0:1&mode=design&t=dyQRJUkRNiS8ZTO1-1)**
 ---
