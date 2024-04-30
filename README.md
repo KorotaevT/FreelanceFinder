@@ -23,6 +23,7 @@
 ----
 ### Видео
 - **[Видеопрезентация проекта](https://youtu.be/OM5FKPmN-rY)**
+- **[Демонстрация интерфейса](https://youtu.be/Ze8EYAXX1HQ)**
 ------
 ### Сервисы
 - **[YouTrack](https://tpproject.youtrack.cloud/)**
