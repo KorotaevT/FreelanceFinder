@@ -25,8 +25,26 @@
 ### Видео
 - **[Видеопрезентация проекта](https://youtu.be/OM5FKPmN-rY)**
 - **[Демонстрация интерфейса](https://youtu.be/Ze8EYAXX1HQ)**
+- **[Демонстрация работы серверной части](https://youtu.be/5ef26Gyfyck)**
+- **[Демонстрация работы клиентской части](https://youtu.be/7Uhv7VuumwM)**
+- **[Демонстрация развертывания](https://youtu.be/tM18BUeBnB8)**
 ------
 ### Сервисы
 - **[YouTrack](https://tpproject.youtrack.cloud/)**
 - **[Figma](https://www.figma.com/file/9Kpn1ToDiKrdOI2acrNTnW/Untitled?type=design&node-id=0:1&mode=design&t=dyQRJUkRNiS8ZTO1-1)**
 ---
+## Входные данные
+* Администратор: 
+
+  Логин: Тимофей Коротаев
+  пароль: 12345
+  
+* Фрилансер: 
+
+  Логин: Максим Капустин
+  пароль: qwerty
+
+* Заказчик: 
+
+  Логин: Олег Киреев
+  пароль: 54321
