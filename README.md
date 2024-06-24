@@ -31,6 +31,7 @@
 - **[Демонстрация работы серверной части](https://youtu.be/5ef26Gyfyck)**
 - **[Демонстрация работы клиентской части](https://youtu.be/7Uhv7VuumwM)**
 - **[Демонстрация развертывания](https://youtu.be/tM18BUeBnB8)**
+- **[Демонстрация функционала приложения](https://youtu.be/B8Rhvs1aG9U)**
 ------
 ### Сервисы
 - **[YouTrack](https://tpproject.youtrack.cloud/)**
