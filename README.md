@@ -1,8 +1,7 @@
-# TP-6.4
-## Проект "FreelanceFinder"
+# Проект "FreelanceFinder"
 ### Ссылки на репозитории:
-- **[Сервер](https://github.com/mk4pustin/tpproject4-backend)**
-- **[Клиент](https://github.com/mk4pustin/tpproject4-client)**
+- **[Сервер](https://gitlab.com/tpproject4/backend)**
+- **[Клиент](https://gitlab.com/tpproject4/client)**
 
 ### Выполняют студенты 6.4:
 
